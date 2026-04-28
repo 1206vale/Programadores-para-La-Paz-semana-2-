@@ -3,28 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Formulario Participa</title>
+  <title>Formulario Participa - Accesibilidad Mejorada</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
   <main>
     <section class="contenedor">
-      <h1>Formulario Participa</h1>
+      <h1 id="titulo-formulario">Formulario Participa</h1>
 
-      <p>
-        Este formulario permite recoger propuestas, ideas o necesidades de la comunidad.
+      <p id="descripcion-uso">
+        Este formulario permite recoger propuestas, ideas o necesidades de la comunidad. 
         La información será usada únicamente con fines de participación y organización comunitaria.
       </p>
 
-      <form>
+      <form aria-labelledby="titulo-formulario">
+        
         <div class="campo">
-          <label for="nombre">Nombre</label>
+          <label for="nombre">Nombre completo</label>
           <input 
             type="text" 
             id="nombre" 
             name="nombre" 
-            placeholder="Escribe tu nombre">
+            placeholder="Escribe tu nombre"
+            required
+            aria-required="true">
         </div>
 
         <div class="campo">
@@ -32,21 +35,27 @@
           <textarea 
             id="propuesta" 
             name="propuesta" 
-            placeholder="Escribe tu propuesta para la comunidad"></textarea>
+            placeholder="Escribe tu propuesta para la comunidad"
+            required
+            aria-required="true"></textarea>
         </div>
 
         <div class="campo">
-          <label for="contacto">Correo o teléfono de contacto opcional</label>
+          <label for="contacto">Correo o teléfono de contacto (Opcional)</label>
           <input 
             type="text" 
             id="contacto" 
             name="contacto" 
-            placeholder="Este campo es opcional">
+            placeholder="Ejemplo: correo@dominio.com">
         </div>
 
         <div class="campo">
           <label>
-            <input type="checkbox" name="consentimiento">
+            <input 
+              type="checkbox" 
+              name="consentimiento" 
+              required 
+              aria-required="true">
             Acepto que mi información sea usada únicamente para fines de participación comunitaria.
           </label>
         </div>
