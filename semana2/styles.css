@@ -1,8 +1,8 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 20px;
+    margin: 28px 40px ;
     line-height: 1.5;
-    background-color: #f5f5f5;
+    background-color: #ffffffcc;
   }
   
   main {
@@ -11,13 +11,13 @@ body {
   }
   
   .contenedor {
-    background-color: white;
+    background-color: rgba(206, 203, 203, 0.667);
     padding: 24px;
     border-radius: 8px;
   }
   
   h1 {
-    font-size: 28px;
+    font-size: 30px;
     margin-bottom: 12px;
   }
   
@@ -55,4 +55,4 @@ body {
     font-size: 16px;
     cursor: pointer;
   }
-  
+    
