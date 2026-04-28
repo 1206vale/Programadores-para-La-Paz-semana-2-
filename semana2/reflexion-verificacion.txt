@@ -1,8 +1,8 @@
 Reflexión de verificación responsable
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: natali villalba garizabalo
+Fecha:27 de abril del 2026
+Nombre de la rama:natali_villalba
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
@@ -12,3 +12,15 @@ Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
 Respuesta:
+no se debe compartir cualquier información sin verificar antes porque
+hay que confirmar que la información es real y confiable, en el caso de 
+ser así, puedo actuar y cortar esa cadena de desinformación.
+existen páginas donde puedo verificar que la información presentada es la correcta,
+y se puede tener el cuenta ciertos datos, como las fechas y si esa información fue
+publicada por canales informativos confiables.
+La accesibilidad es una forma de inclusión digital porque todos podemos acceder a cualquier
+información requerida si así lo deseamos y esto demuestra que todos podemos opinar acerca
+de la información que se nos presente.
+la relación que existe entre el formulario y la partcipación ciudadana es que al simple 
+hecho de participar llenando el formulario estamos aportando nuestra opinión y participando
+activamente como ciudadanos.
