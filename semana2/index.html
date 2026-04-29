@@ -3,58 +3,60 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Formulario Participa</title>
+  <title>Participa y cuéntanos tu opinión</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
   <main>
     <section class="contenedor">
-      <h1>Formulario Participa</h1>
+      <h1>¡Participa y cuentanos tu ideas para mejorar nuestra comunidad!</h1>
 
       <p>
-        Este formulario permite recoger propuestas, ideas o necesidades de la comunidad.
-        La información será usada únicamente con fines de participación y organización comunitaria.
+        Queremos escucharte. Este formulario es para que puedas compartir tus ideas,
+        necesidades o sugerencias para mejorar nuestra comunidad, y promover un sana convincia entre todos.
       </p>
 
       <form>
         <div class="campo">
-          <label for="nombre">Nombre</label>
+          <label for="nombre">¿Cual es tu nombre?</label>
           <input 
             type="text" 
             id="nombre" 
             name="nombre" 
-            placeholder="Escribe tu nombre">
+            placeholder="Escribe tu nombre completo, es opcional">
         </div>
 
         <div class="campo">
-          <label for="propuesta">Propuesta o mensaje</label>
+          <label for="propuesta">¿Cuéntanos qué necesitas, qué te preocupa o qué te gustaría mejorar?</label>
           <textarea 
             id="propuesta" 
             name="propuesta" 
-            placeholder="Escribe tu propuesta para la comunidad"></textarea>
+            required
+            placeholder="puedes escribir con tus propias palabras, no hay respuestas correctas o incorrectas"></textarea>
         </div>
 
         <div class="campo">
-          <label for="contacto">Correo o teléfono de contacto opcional</label>
+          <label for="contacto">Déjanos tu número o correo si quieres que te contactemos</label>
           <input 
             type="text" 
             id="contacto" 
             name="contacto" 
-            placeholder="Este campo es opcional">
+            placeholder="Puedes escribir tu teléfono o tu correo, es opcional">
         </div>
 
-        <div class="campo">
-          <label>
-            <input type="checkbox" name="consentimiento">
-            Acepto que mi información sea usada únicamente para fines de participación comunitaria.
+        <div class="campo"> 
+          <label> Acepto que usen mis datos para contactarme sobre este mensaje
+            <input type="checkbox" name="consentimiento"> 
           </label>
         </div>
 
-        <button type="submit">Enviar participación</button>
+        <button type="submit" id="boton-enviar" disabled>Enviar participación</button>
       </form>
     </section>
   </main>
+
+  <script src="script.js"></script>
 
 </body>
 </html>
