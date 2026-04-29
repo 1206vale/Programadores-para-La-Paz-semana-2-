@@ -1,35 +1,35 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Santiago Acero solano
+Fecha: 29/04/2026
+Nombre de la rama: santiago_acero_solano
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: sí porque el título permite reconocer que el formulario será usado para recoger mensajes y propuestas de la comunidad.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: sí ya que el formulario expresa claramente que la información sera usada para mejorar la comunicación del territorio, evitar la desinformación y para la organización comunitaria.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta: sí, cada campo posee su mensaje que da las instrucciones sobre que se debe escribir en cada uno de estos.
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: sí ya que no posee términos extraños o difíciles de comprender
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta: sí, únicamente pide nombre, correo electrónico (opcional) y su mensaje o propuesta lo cual evita que los participantes se sientan frustados por llenar tantos campos de datos.
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta: sí ya que existe un campo grande el cual posee un mensaje donde explica que allí puede escribir su propuesta o mensaje sin ningún problema.
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta: sí, tiene un checklist que me informa el fin con que ingreso la información
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: sí, tiene un texto grande y claro relacionado con el envío de la información brindada por la comunidad.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta: sí porque posee un lenguaje muy sencillo que permite entender la información sin mucho esfuerzo.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta: Para mí, creo que el formulario esta perfecto para que mas personas lo usen puesto que, es corto, facil de entender y permite la participación de las personas.
