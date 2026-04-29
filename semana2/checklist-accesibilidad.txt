@@ -1,35 +1,36 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Enilson Rafael Contreras Prieto
+Fecha: 28/04/2026
+Nombre de la rama: enilson_contreras
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: Si, ya que el titulo es visible, grande y explica claramente el propósito del formulario.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: Si, debido a que el texto introductorio menciona que es para propuestas, opiniones y temas de desinformación.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta: Si, todos los campos tienen su respectiva etiqueta como nombre, mensaje y contacto.
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: Si, el lenjuage del formulario es claro, directo y fácil de entender para los usuarios.
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta: Si, este formulario solo pide datos basicos como el nombre del participante y su contacto o correo de forma opcional.
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta: Si, ya que esta contiene un área de texto amplia y permite escribir de forma comoda.
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta: Si, se incluye una casilla de aceptación para el uso de datos.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: Si, el botón dice "Enviar participación", lo cual es claro y específico.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta: Si, ya que el texto es claro, el tamaño de letra es adecuado y el fondo claro del formulario con sus borde amarillos permiten una buena lectura.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta: Se podría organizar mejor la alienacíon del botón de consetimietos con su texto, ademas, se podría agregar ayudas como ejemplos 
+dentro de los campos y mensajes guias cortos para orientar al usuario.  
