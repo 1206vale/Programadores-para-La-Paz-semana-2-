@@ -1,35 +1,65 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: ALEXANDER JESUS LINARES CASSIANI
+Fecha: 29-04-2026
+Nombre de la rama: alexanderLinares
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: 
+
+Si, se explica de forma clara y rapida de que trata el formulario. explicandole a el que ingrese
+que es un pagina para envio de sugenrecios con respecto a la comunidad
 
 2. ¿El formulario explica para qué se usará la información?
 Respuesta:
 
+si, se explica que la información suministrada sera usada con fines de retroalimentacion para quien reciba las sugerencias
+
+
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta: 
+
+si. esta bastane claro
 
 4. ¿El lenguaje usado es sencillo y comprensible?
 Respuesta:
 
+si use un leguauje sencillo y practico con la premisia que puede ser un adulto mayor que el que ingrese a el 
+formulario
+
 5. ¿El formulario evita pedir datos innecesarios?
 Respuesta:
+
+si, solo se pide el nombre y un medio de contacto sin embargo son campos que no son obligatorios para la solicitud
+
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
 Respuesta:
 
+si es una caja grande donde esta explicado de forma clara que se debe escribi en ese lugar
+
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
 Respuesta:
+
+si se intercambio el boton de acepto y se puedo el texto de acept primero para que usuario cuando entre primero
+lea los terminos y luego decida si aceptar o no
 
 8. ¿El botón de envío tiene un texto claro?
 Respuesta:
 
+si, esta bastante claro se coloco un color para resaltarlo del todo el formulario
+
 9. ¿La página se puede leer con facilidad?
 Respuesta:
 
+si esta en leguaje bastante claro y sencillo evianto el uso de tecnisimos
+
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
 Respuesta:
+ 
+ 1. las cosas que he agregado son, el colocar el nombre y el contacto sean opcionales. 
+ 2. que el campo de sugerencias sea obligatorio para darle a enviar asi evitamos que alguien envie el formulario 
+    vacio accidentalmente marcalo en rojo con un mensaje diciendo no se puede en enviar la sugrencia vacia debe escribir
+    tu propuesta y luego darle a enviar.
+3. se cambio el tono de la pagina a colores pasteles y un texto mas grande y una fuente mas facil de leer.
+
