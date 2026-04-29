@@ -1,35 +1,35 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
+Nombre del estudiante: Isabela Castilla Berrío.
+Fecha: 27/04/2026
 Nombre de la rama:
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: isabela_castilla_berrío
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: Sí, por medio de la descripción se evidencia el propósito del formulario. El cual consiste en un medio donde los miembros de la comunidad tengan un espacio donde compartir sus propuestas, ideas o necesidades de la comunidad.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta: Sí, en cada punto propuesto para el formulario, se puede evidenciar un indicativo o instructivo corto de la información que se requiere en cada campo.
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: Sí, considero que el lenguaje que usé es comprensible. Usando palabras y descripciones que son fáciles de entender.
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta: Sí, pide lo justo y necesario para lo que es el propósito del formulario. Solo el nombre completo, propuesta y, en caso de querer ser contactado, comparta su contacto.
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta: No, en el primer campo se pide escribir el nombre completo. En cuanto al segundo, sí se puede escribir la propuesta de forma clara y entendible.
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta:Sí, casi al final se encuentra un botón donde se da el consentimiento de los datos, y también una explicación clara de para qué está el botón.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta:Sí, en el botón de envío hay un texto que dice "enviar participación". Que deja claro que sirve para dar por terminado el formulario y enviar la información.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta:Sí, lleva un lenguaje entendible y con caracteres que facilitan su lectura. Permitiendo una correcta participación.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta:Siento que está bien, así como está. Sin embargo, algo que se podría hacer es llegar a las personas que tienen dificultades y ayudarlas a realizar el formulario. Así para que llegue a más.
