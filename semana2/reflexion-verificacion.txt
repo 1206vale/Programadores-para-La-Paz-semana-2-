@@ -11,4 +11,8 @@ Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 3. ¿Por qué la accesibilidad también es una forma de inclusión digital?
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
-Respuesta:
+Respuesta
+1: Porque compartir información falsa causa pánico, daña la confianza y puede poner en riesgo la salud, la plata o la seguridad de otras personas. Una vez que se reenvía, ya no se puede borrar el daño.
+2: La verificación responsable protege a la comunidad porque frena rumores, evita pánico y estafas, y mantiene informada a la gente con datos reales. Cuando todos verifican, la comunidad toma mejores decisiones y no cae en engaños que afectan su salud, plata o seguridad.
+3:La accesibilidad es inclusión digital porque elimina barreras que impiden que personas con discapacidad, adultos mayores o con internet lento usen la tecnología. Si una página funciona con teclado, lector de pantalla o texto alternativo, más personas pueden estudiar, trabajar y participar. Sin accesibilidad, los excluimos.
+4:El formulario “Participa” es una herramienta de participación ciudadana digital. Permite que cualquier persona envíe ideas, quejas o propuestas sin ir a una oficina, rompiendo barreras de tiempo, distancia o movilidad. Así más ciudadanos pueden influir en las decisiones de su comunidad.
