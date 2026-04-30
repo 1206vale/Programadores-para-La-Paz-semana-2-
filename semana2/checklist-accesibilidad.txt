@@ -1,35 +1,35 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Angelo Rengifo
+Fecha: 30 de abril de 2026
+Nombre de la rama: angelo_rengifo
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: Sí. El título principal es "Formulario Participa", está dentro de una etiqueta <h1> y se anuncia como encabezado para lectores de pantalla.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: Sí. Antes del formulario hay un párrafo que explica que la información solo se usará con fines de participación y organización comunitaria.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta: Sí. Todos los campos (nombre, propuesta, contacto y consentimiento) tienen una etiqueta <label> visible asociada con el atributo for al id del campo.
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: Sí. Se evita el lenguaje técnico, las instrucciones son cortas y se usan palabras cotidianas para que cualquier persona de la comunidad las entienda.
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta: Sí. Solo se piden el nombre, la propuesta y el consentimiento como obligatorios. El correo o teléfono es opcional y solo sirve para responder.
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta: Sí. El campo "Propuesta o mensaje" es un <textarea> amplio, con un texto de ayuda que orienta sobre cómo escribir y recuerda no incluir datos de terceros.
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta: Sí. Hay una casilla obligatoria donde la persona acepta que su información se use únicamente para fines de participación comunitaria.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: Sí. El botón dice "Enviar participación", que describe la acción exacta que ocurre al presionarlo.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta: Sí. Se usa un alto contraste entre texto y fondo, una tipografía legible, espaciado entre líneas amplio y un indicador de foco visible para personas que navegan con teclado.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta: Agregaría una versión en lengua de señas o audio para personas con discapacidad visual o auditiva, traducciones a lenguas indígenas locales y un modo de alto contraste activable desde la misma página.

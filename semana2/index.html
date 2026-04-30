@@ -8,46 +8,87 @@
 </head>
 <body>
 
-  <main>
-    <section class="contenedor">
-      <h1>Formulario Participa</h1>
+  <a href="#contenido-principal" class="saltar-contenido">Saltar al contenido principal</a>
 
-      <p>
+  <main id="contenido-principal">
+    <section class="contenedor" aria-labelledby="titulo-formulario">
+      <header>
+        <h1 id="titulo-formulario">Formulario Participa</h1>
+      </header>
+
+      <p class="descripcion">
         Este formulario permite recoger propuestas, ideas o necesidades de la comunidad.
-        La información será usada únicamente con fines de participación y organización comunitaria.
+        La información será usada únicamente con fines de participación y organización
+        comunitaria. Solo te pedimos lo necesario para poder responderte.
       </p>
 
-      <form>
+      <p class="nota-campos">
+        Los campos marcados con <span class="obligatorio" aria-hidden="true">*</span>
+        son obligatorios.
+      </p>
+
+      <form aria-describedby="descripcion-uso" novalidate>
+        <p id="descripcion-uso" class="visualmente-oculto">
+          Formulario corto para enviar tu propuesta a la comunidad.
+        </p>
+
         <div class="campo">
-          <label for="nombre">Nombre</label>
-          <input 
-            type="text" 
-            id="nombre" 
-            name="nombre" 
-            placeholder="Escribe tu nombre">
+          <label for="nombre">
+            Nombre <span class="obligatorio" aria-hidden="true">*</span>
+          </label>
+          <input
+            type="text"
+            id="nombre"
+            name="nombre"
+            placeholder="Escribe tu nombre"
+            required
+            aria-required="true"
+            autocomplete="name">
         </div>
 
         <div class="campo">
-          <label for="propuesta">Propuesta o mensaje</label>
-          <textarea 
-            id="propuesta" 
-            name="propuesta" 
-            placeholder="Escribe tu propuesta para la comunidad"></textarea>
+          <label for="propuesta">
+            Propuesta o mensaje <span class="obligatorio" aria-hidden="true">*</span>
+          </label>
+          <textarea
+            id="propuesta"
+            name="propuesta"
+            placeholder="Escribe tu propuesta para la comunidad"
+            required
+            aria-required="true"
+            aria-describedby="ayuda-propuesta"></textarea>
+          <small id="ayuda-propuesta" class="ayuda">
+            Cuéntanos tu idea con palabras sencillas. No incluyas datos personales
+            de otras personas.
+          </small>
         </div>
 
         <div class="campo">
-          <label for="contacto">Correo o teléfono de contacto opcional</label>
-          <input 
-            type="text" 
-            id="contacto" 
-            name="contacto" 
-            placeholder="Este campo es opcional">
+          <label for="contacto">
+            Correo o teléfono de contacto (opcional)
+          </label>
+          <input
+            type="text"
+            id="contacto"
+            name="contacto"
+            placeholder="Solo si quieres que te respondamos"
+            aria-describedby="ayuda-contacto"
+            autocomplete="email">
+          <small id="ayuda-contacto" class="ayuda">
+            Este dato es opcional. Solo lo usaremos para responder a tu propuesta.
+          </small>
         </div>
 
-        <div class="campo">
-          <label>
-            <input type="checkbox" name="consentimiento">
-            Acepto que mi información sea usada únicamente para fines de participación comunitaria.
+        <div class="campo campo-consentimiento">
+          <label for="consentimiento">
+            <input
+              type="checkbox"
+              id="consentimiento"
+              name="consentimiento"
+              required
+              aria-required="true">
+            Acepto que mi información sea usada únicamente para fines de
+            participación comunitaria. <span class="obligatorio" aria-hidden="true">*</span>
           </label>
         </div>
 
