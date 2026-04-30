@@ -1,35 +1,35 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:karen dayana santiago pineda
+Fecha: 30 de abril del 2026
+Nombre de la rama:karen santiago
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta:Si.El formulario tiene como titulo "Formulario participa" o "Formulario de participación cuidadana" visible en la parte superior 
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta:Si.Incluye un texto inicial que indica que los datos seran usados para registrar propuestas cuidadanas y contactar al participante 
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta:Si.Todos los campos como Nombre,correo,telefono y propuesta tienen su etiqueta <label> asociada y visible 
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta:Si.Se uso lenguaje claro sin tecnisimos,con instrucciones cortas y directas para que cualquier persona ño entienda 
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta:Si.Solo solicita datos basicos: nombre,correo y la propuesta.No pide documento,direccion exacta ni información sensible 
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta:Si.El campo de "propuesta" es un <textarea> amplio que permite escribir libremente y sin limite restrictivo de caracteres 
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta:Si.Se agrego in checkbox con el texto "acepto el tratamiento de mis datos personales" antes del botón enviar 
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta:Si.El botón dice "enviar propuesta" lo que indica claramente la acción que realizará el usuario al hacer clic 
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta:Si. Se usa un tamaño ee letra legible,buen contraste entre texto y fondo, y los elementos estan espaciados para facilitar la lectura en el celular o computador 
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta:Agregaria mensaje de error claros debajo de cada campo, aumentaria eñ tamaño de los botones para facilitar el clic en el celular y añadiria un texto alternativo en imagenes para personas que usan lectores de pantalla 
