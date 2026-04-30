@@ -1,23 +1,23 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: julieth paternina
+Fecha:1/ mayo 2026
+Nombre de la rama:julieh-paternina
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta:si, el al leer el titulo del formulario el participante puede leer de forma clara 
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta:si, el formulario contiene la explicacion, se informa que es con el fin de  recoger propuestas, ideas o necesidades de la comunidad, para mejorar la participacion de la comunicacion de nuestro territorio
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta: si, cada campo tiene una etiqueta que nos permite darle forma a la paginna de particioacion
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta:si, el lenguaje utilizado esta diseñado de manera que cualquier persona que participe en el formulario entienda y pueda comprender
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta:si, el formulario solo pide los datos que son necesarios para el diligenciamiento del formulario, informacion para propuestaa o ideas para el mejoramiento de la comunidad
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
 Respuesta:

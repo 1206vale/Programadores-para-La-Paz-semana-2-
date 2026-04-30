@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     line-height: 1.5;
-    background-color: #f5f5f5;
+    background-color: #926476;
   }
   
   main {
@@ -11,18 +11,18 @@ body {
   }
   
   .contenedor {
-    background-color: white;
+    background-color: rgb(237, 199, 247);
     padding: 24px;
     border-radius: 8px;
   }
   
   h1 {
-    font-size: 28px;
-    margin-bottom: 12px;
+    font-size: 35px;
+    margin-bottom: 16px;
   }
   
   p {
-    font-size: 16px;
+    font-size: 18px;
   }
   
   form {
@@ -51,8 +51,8 @@ body {
   }
   
   button {
-    padding: 10px 16px;
-    font-size: 16px;
+    padding: 16px 20px;
+    font-size: 20px;
     cursor: pointer;
   }
   
