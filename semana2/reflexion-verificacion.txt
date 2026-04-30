@@ -1,8 +1,8 @@
 Reflexión de verificación responsable
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:keiner villadiego
+Fecha:28 abril 2026
+Nombre de la rama:keiner villadiego
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
@@ -12,3 +12,14 @@ Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
 Respuesta:
+"La inclusión digital es un pilar fundamental en el desarrollo de software moderno,
+ ya que garantiza que las herramientas tecnológicas sean accesibles para todas las
+ personas sin distinción. Como programadores en formación, nuestra responsabilidad
+ética incluye el diseño de interfaces que eliminen barreras para usuarios con 
+discapacidades. Por otro lado, la verificación responsable de los datos es crucial 
+para proteger la privacidad y la integridad de la información que los ciudadanos
+confían en nuestras plataformas. Al validar los datos correctamente, no soloevitamos
+ errores técnicos, sino que también promovemos un entorno digital seguro
+ y confiable. Integrar estos conceptos desde el inicio de un proyecto asegura que
+la tecnología cumpla su propósito social de conectar a la comunidad de manera
+equitativa."
