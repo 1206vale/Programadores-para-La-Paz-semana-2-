@@ -1,7 +1,7 @@
 Reflexión de verificación responsable
 
-Nombre del estudiante:
-Fecha:
+Nombre del estudiante: Maria Juliana Martínez Herazo
+Fecha: 30/04/2026
 Nombre de la rama:
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
@@ -11,4 +11,16 @@ Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 3. ¿Por qué la accesibilidad también es una forma de inclusión digital?
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
-Respuesta:
+Respuesta: 
+La información no debe compartirse sin verificar, porque en la actualidad circulan muchos contenidos falsos, incompletos o manipulados que pueden afectar la manera en que las personas entienden una situación. 
+Cuando alguien difunde algo sin confirmar su veracidad, puede contribuir a la desinformación y generar confusión dentro de una comunidad. Por eso, verificar antes de compartir es un acto de responsabilidad, 
+ya que permite asegurar que lo que se comunica sea confiable y útil para los demás.
+La verificación responsable ayuda a proteger a una comunidad porque evita que se propaguen rumores, noticias falsas o mensajes que puedan causar alarma innecesaria. Además, fortalece la confianza entre las personas,
+ya que se promueve una cultura basada en hechos y no en suposiciones. Una comunidad bien informada toma mejores decisiones y construye relaciones más sólidas a partir de la verdad.
+
+Desde siempre se ha entendido que la accesibilidad y la inclusión son conceptos que van de la mano. En el ámbito digital, esto cobra aún más importancia, ya que la accesibilidad permite que todas las personas, 
+sin importar sus limitaciones físicas, sensoriales o cognitivas, puedan acceder a herramientas, plataformas y contenidos tecnológicos. Hablar de inclusión digital significa precisamente garantizar que nadie quede
+excluido del uso y aprovechamiento de los recursos digitales.
+
+El formulario “Participa” tiene una relación directa con la participación ciudadana, porque representa un espacio donde la comunidad puede expresar sus opiniones, necesidades y propuestas. A través de este tipo 
+de herramientas, las personas tienen la oportunidad de involucrarse activamente en procesos de mejora colectiva, fortaleciendo así la comunicación, la colaboración y el compromiso social.
