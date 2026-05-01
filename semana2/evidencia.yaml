@@ -1,0 +1,51 @@
+estudiante:
+  nombre: "Iver Obregón Torres"
+  rama: "iver_obregon_torres"
+  
+actividad: "Semana 2 Día 5"
+titulo: "Formulario de Contacto Accesible WCAG 2.2"
+
+archivos_modificados:
+    - index.html
+    - styles.css
+    - README.md
+    - evidencia.yaml
+
+criterios_wcag_2_2:
+  perceptible:
+        - "1.4.3 Contraste mínimo 4.5:1 en textos"
+        - "1.3.1 Labels asociados con for/id"
+  operable:
+        - "2.4.7 Foco visible con outline 3px"
+        - "2.1.1 Funcionalidad completa con teclado"
+  comprensible:
+        - "3.3.1 Identificación de errores con role=alert"
+        - "3.3.2 Instrucciones claras en campos"
+  robusto:
+        - "4.1.3 Mensajes de estado para lectores pantalla"
+
+cambios_html:
+    - "Estructura semántica con main y h1"
+    - "Atributos aria-describedby y aria-label"
+    - "Validación HTML5 con required y pattern"
+    - "Contenedores role=alert para errores"
+
+cambios_css:
+    - "Contraste #1a1a1a sobre #ffffff cumple 4.5:1"
+    - "Outline 3px #005fcc en focus visible"
+    - "Estados aria-invalid con borde #d32f2f"
+    - "Botones mínimo 44px según WCAG 2.5.5"
+
+principios_aplicados:
+    - "Minimización de datos: solo campos necesarios"
+    - "Lenguaje claro en instrucciones"
+    - "Prevención de errores con validación"
+
+pruebas:
+    - "Tabulación completa con teclado"
+    - "Lector NVDA anuncia labels y errores"
+    - "Zoom 200% sin pérdida de función"
+    - "WebAIM Contrast Checker aprobado"
+
+estado: "completado"
+fecha: "2026-05-01"
