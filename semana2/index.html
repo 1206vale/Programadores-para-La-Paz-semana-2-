@@ -18,13 +18,15 @@
       </p>
 
       <form>
+        
         <div class="campo">
           <label for="nombre">Nombre</label>
           <input 
             type="text" 
             id="nombre" 
             name="nombre" 
-            placeholder="Escribe tu nombre">
+            placeholder="Ej: karen-martinez
+            required>
         </div>
 
         <div class="campo">
@@ -32,29 +34,37 @@
           <textarea 
             id="propuesta" 
             name="propuesta" 
-            placeholder="Escribe tu propuesta para la comunidad"></textarea>
+            placeholder="Escribe tu propuesta para la comunidad"
+            Crear jornadas mensuales de limpieza y reciclaje en el barrio,
+            donde los vecinos participen activamente en el cuidado del entorno. Además, 
+            implementar puntos de recolección de residuos reciclables y realizar talleres educativos sobre
+            el manejo adecuado de la basura y el cuidado del medio ambiente.
+            required></textarea>
         </div>
 
         <div class="campo">
-          <label for="contacto">Correo o teléfono de contacto opcional</label>
+          <label for="contacto">Correo electrónico karenmartinez3128@gmai.com (opcional)</label>
           <input 
-            type="text" 
+            type="email" 
             id="contacto" 
             name="contacto" 
-            placeholder="Este campo es opcional">
+            placeholder="ejemplo@correo.com">
         </div>
 
         <div class="campo">
           <label>
-            <input type="checkbox" name="consentimiento">
+            <input type="checkbox" name="consentimiento" required>
             Acepto que mi información sea usada únicamente para fines de participación comunitaria.
           </label>
         </div>
 
         <button type="submit">Enviar participación</button>
+
       </form>
     </section>
   </main>
 
 </body>
 </html>
+
+
