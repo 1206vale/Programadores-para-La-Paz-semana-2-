@@ -1,58 +1,104 @@
+:root {
+  --color-error: #d32f2f;
+  --color-exito: #2e7d32;
+  --color-borde: #767676;
+  --color-focus: #005fcc;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    line-height: 1.5;
-    background-color: #f5f5f5;
-  }
-  
-  main {
-    max-width: 700px;
-    margin: 0 auto;
-  }
-  
-  .contenedor {
-    background-color: white;
-    padding: 24px;
-    border-radius: 8px;
-  }
-  
-  h1 {
-    font-size: 28px;
-    margin-bottom: 12px;
-  }
-  
-  p {
-    font-size: 16px;
-  }
-  
-  form {
-    margin-top: 20px;
-  }
-  
-  .campo {
-    margin-bottom: 15px;
-  }
-  
-  label {
-    display: block;
-    margin-bottom: 6px;
-  }
-  
-  input,
-  textarea {
-    width: 100%;
-    padding: 8px;
-    font-size: 16px;
-    box-sizing: border-box;
-  }
-  
-  textarea {
-    min-height: 120px;
-  }
-  
-  button {
-    padding: 10px 16px;
-    font-size: 16px;
-    cursor: pointer;
-  }
-  
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+  background-color: #ffffff;
+  color: #1a1a1a;
+}
+
+main {
+  max-width: 700px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 32px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 24px;
+  color: #1a1a1a;
+}
+
+.campo {
+  margin-bottom: 24px;
+}
+
+label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #1a1a1a;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: 2px solid var(--color-borde);
+  border-radius: 4px;
+  font-family: inherit;
+}
+
+input:focus, select:focus, textarea:focus {
+  outline: 3px solid var(--color-focus);
+  outline-offset: 2px;
+  border-color: var(--color-focus);
+}
+
+input[aria-invalid="true"], select[aria-invalid="true"], textarea[aria-invalid="true"] {
+  border-color: var(--color-error);
+}
+
+button {
+  background-color: #1565c0;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  min-width: 44px;
+  min-height: 44px;
+}
+
+button:hover {
+  background-color: #0d47a1;
+}
+
+button:focus {
+  outline: 3px solid var(--color-focus);
+  outline-offset: 2px;
+}
+
+.error {
+  display: block;
+  color: var(--color-error);
+  font-size: 14px;
+  margin-top: 6px;
+  font-weight: 600;
+}
+
+small {
+  display: block;
+  color: #555;
+  font-size: 14px;
+  margin-top: 6px;
+}
+
+span[aria-label="requerido"] {
+  color: var(--color-error);
+    }
