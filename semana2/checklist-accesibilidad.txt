@@ -1,32 +1,28 @@
-Checklist de accesibilidad – Formulario Participa
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre de la rama:carolina_fuentes_bello
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: si, porque me permite entender el formulario 
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: 
 
 3. ¿Cada campo tiene un label o etiqueta visible?
 Respuesta:
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta:si, es esta bien explicado 
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta: si evita pedir datos que no son necesario se centra solo en lo que se requiere.
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
 Respuesta:
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta: si, me muestra la opcion para seleccionar.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: si, es grande y vicible.
 
 9. ¿La página se puede leer con facilidad?
 Respuesta:
