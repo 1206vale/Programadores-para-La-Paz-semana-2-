@@ -1,35 +1,37 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: karen martinez
+Fecha: 1/0572026
+Nombre de la rama:karen-martinez
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: Sí, el formulario presenta un título visible y comprensible que indica su propósito.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta:Sí, se incluye una breve explicación sobre el uso de los datos proporcionados por el usuario.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta:Sí, todos los campos cuentan con etiquetas claras que permiten identificar la información que se debe ingresar.
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: Sí, el lenguaje es claro, directo y fácil de entender para cualquier usuario.
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta:Sí, únicamente se solicitan los datos esenciales para cumplir con el objetivo del formulario.
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta:Sí, el campo principal es adecuado y permite al usuario expresar su propuesta o mensaje sin limitaciones innecesarias.
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta:Sí, se incluye un mensaje o casilla donde el usuario puede aceptar el uso de sus datos.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: Sí, el botón de envío tiene un texto visible y entendible como “Enviar” o “Enviar formulario”.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta:Sí, la estructura, el contraste y el tamaño de la tipografía permiten una lectura cómoda.
+
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
 Respuesta:
+Mejoraría el formulario agregando mayor accesibilidad, como un mejor contraste de colores para facilitar la lectura, instrucciones más claras en cada campo y compatibilidad con lectores de pantalla. También incluiría ejemplos dentro de los campos, validaciones que orienten al usuario en caso de error y la opción de navegación completa con teclado. Además, optimizaría el diseño para dispositivos móviles y simplificaría aún más el lenguaje para que cualquier persona pueda entenderlo fácilmente.
