@@ -1,8 +1,8 @@
 Reflexión de verificación responsable
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Angel David Perez Castro
+Fecha: 30-04-2026
+Nombre de la rama:Angel-Perez
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
@@ -11,4 +11,4 @@ Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 3. ¿Por qué la accesibilidad también es una forma de inclusión digital?
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
-Respuesta:
+Respuesta:Dentro del contexto personal la información no se debe compartir sin verificar porque puede ser falsa o incompleta. Difundir contenido incorrecto puede causar controversias, dañar la reputación de personas o instituciones. Siempre se debe ser responsable para proteger a la comunidad al asegurar que lo que se comparte es confiable, fomenta el pensamiento crítico y reduce la propagación de noticias falsas. De cierta manera fortalece la confianza entre las personas y promueve un uso ético de la información. De cierta manera la accesibilidad es una forma de inclusión digital porque permite que todas las personas, incluyendo aquellas con discapacidades y que puedan acceder, entender y utilizar la información. Esto reduce la brecha digital y garantiza igualdad de oportunidades. Finalmente, el formulario se relaciona con la participación ciudadana porque brinda un espacio para que las personas expresen sus ideas y demás visiones personales con criterio. Con la cual finalmente se promueve el involucramiento activo en la comunidad, se fortalecen los procesos democráticos y se construyen soluciones colectivas para el bienestar.
