@@ -1,60 +1,47 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Formulario Participa</title>
-  <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario Accesible - Semana 2</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
-  <main>
-    <section class="contenedor">
-      <h1>Formulario Participa</h1>
-
-      <p>
-        Este formulario permite recoger propuestas, ideas o necesidades de la comunidad.
-        La información será usada únicamente con fines de participación y organización comunitaria.
-      </p>
-
-      <form>
-        <div class="campo">
-          <label for="nombre">Nombre</label>
-          <input 
-            type="text" 
-            id="nombre" 
-            name="nombre" 
-            placeholder="Escribe tu nombre">
-        </div>
-
-        <div class="campo">
-          <label for="propuesta">Propuesta o mensaje</label>
-          <textarea 
-            id="propuesta" 
-            name="propuesta" 
-            placeholder="Escribe tu propuesta para la comunidad"></textarea>
-        </div>
-
-        <div class="campo">
-          <label for="contacto">Correo o teléfono de contacto opcional</label>
-          <input 
-            type="text" 
-            id="contacto" 
-            name="contacto" 
-            placeholder="Este campo es opcional">
-        </div>
-
-        <div class="campo">
-          <label>
-            <input type="checkbox" name="consentimiento">
-            Acepto que mi información sea usada únicamente para fines de participación comunitaria.
-          </label>
-        </div>
-
-        <button type="submit">Enviar participación</button>
-      </form>
-    </section>
-  </main>
-
+    <main>
+        <h1>Formulario de Contacto Accesible</h1>
+        <form id="contacto" novalidate>
+            <div class="campo">
+                <label for="nombre">Nombre completo <span aria-label="requerido">*</span></label>
+                <input type="text" id="nombre" name="nombre" required aria-describedby="error-nombre">
+                <span id="error-nombre" class="error" role="alert"></span>
+            </div>
+            <div class="campo">
+                <label for="email">Correo electrónico <span aria-label="requerido">*</span></label>
+                <input type="email" id="email" name="email" required aria-describedby="error-email">
+                <span id="error-email" class="error" role="alert"></span>
+            </div>
+            <div class="campo">
+                <label for="telefono">Teléfono</label>
+                <input type="tel" id="telefono" name="telefono" pattern="[0-9]{10}" aria-describedby="ayuda-tel">
+                <small id="ayuda-tel">Formato: 10 dígitos sin espacios</small>
+            </div>
+            <div class="campo">
+                <label for="asunto">Asunto <span aria-label="requerido">*</span></label>
+                <select id="asunto" name="asunto" required aria-describedby="error-asunto">
+                    <option value="">Seleccione una opción</option>
+                    <option value="consulta">Consulta</option>
+                    <option value="soporte">Soporte técnico</option>
+                    <option value="sugerencia">Sugerencia</option>
+                </select>
+                <span id="error-asunto" class="error" role="alert"></span>
+            </div>
+            <div class="campo">
+                <label for="mensaje">Mensaje <span aria-label="requerido">*</span></label>
+                <textarea id="mensaje" name="mensaje" rows="5" required aria-describedby="error-mensaje"></textarea>
+                <span id="error-mensaje" class="error" role="alert"></span>
+            </div>
+            <button type="submit">Enviar mensaje</button>
+        </form>
+    </main>
 </body>
-</html>
+  </html>
