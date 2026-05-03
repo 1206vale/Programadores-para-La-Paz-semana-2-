@@ -1,0 +1,8 @@
+Comandos utilizados en la actividad: 
+
+- cd semana2
+-pwd
+-ni preguntas-semana2
+-ls
+-ni comandos-terminal.txt
+-ni reflexión.semana2.txt
