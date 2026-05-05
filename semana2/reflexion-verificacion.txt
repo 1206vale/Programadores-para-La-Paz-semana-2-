@@ -1,14 +1,36 @@
 Reflexión de verificación responsable
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Luis Angel Vidal Hinojosa
+Fecha: 04/05/2026
+Nombre de la rama:luisangel_vidal_hinojosa
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
 1. ¿Por qué no se debe compartir cualquier información sin verificar?
+RTA: No es buena idea compartir cualquier cosa sin revisar primero, porque uno puede terminar regando información falsa sin darse cuenta.
+Eso confunde a la gente y puede hacer que tomen malas decisiones.
+Además, quedas mal tú, porque después nadie te cree ni lo que sí es verdad.
+A veces esas cadenas o noticias falsas generan susto o problemas entre las personas.
+También se puede armar chisme o malentendidos por algo que ni era cierto.
+Hoy en día todo se mueve rápido en redes, entonces un error se riega en segundos.
+Por eso es mejor mirar bien de dónde viene la información.
+Si no es confiable, mejor no compartirla.
+Ser piloso con eso habla bien de uno y evita líos innecesarios.
+
 2. ¿Cómo ayuda la verificación responsable a proteger a una comunidad?
+RTA: Verificar bien la información antes de compartir ayuda un montón a cuidar a la comunidad.
+Así uno no anda regando chismes o noticias falsas que enredan a todo el mundo.
+La gente puede tomar decisiones más seguras, sin dejarse llevar por cualquier cosa.
+También se evita que se arme pánico o susto por cosas que no son ciertas.
+Cuando la info es confiable, la confianza entre las personas crece.
+Se reducen los conflictos y los malos entendidos entre vecinos o grupos.
+Las redes se vuelven un espacio más sano y menos tóxico.
+En pocas, ser piloso con lo que uno comparte es cuidar a los demás.
+Es poner un granito de arena para que todo funcione mejor.
+
 3. ¿Por qué la accesibilidad también es una forma de inclusión digital?
+RTA: La accesibilidad es una forma de inclusión digital porque hace que más gente pueda usar la tecnología sin quedarse por fuera. No todo el mundo ve, oye o entiende igual, entonces si una página o app está pensada para todos, nadie se queda colgado. Por ejemplo, subtítulos, audios o letras grandes ayudan un montón a quienes lo necesitan. También sirve para personas mayores o que no son muy pilas con lo digital. La idea es que cualquiera, sin importar su situación, pueda entrar, aprender y participar. Si no hay accesibilidad, es como cerrarles la puerta a muchos. En cambio, cuando sí la hay, se vuelve más fácil estudiar, trabajar o hacer vueltas en línea. Eso reduce la brecha digital y da más oportunidades. En pocas, hacer lo digital accesible es incluir a todo el mundo, sin dejar a nadie atrás.
+
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
-Respuesta:
+Respuesta: El formulario “Participa” tiene que ver con la participación ciudadana porque es una forma sencilla de que la gente haga escuchar su voz. A través de ese espacio, cualquier persona puede dar su opinión, proponer ideas o comentar problemas de su comunidad. No se necesita ser experto ni saber mucho de tecnología, solo tener ganas de aportar. Esto hace que más personas se involucren en decisiones que afectan a todos. También ayuda a que las entidades escuchen lo que realmente necesita la gente. Cuando muchos participan, se toman decisiones más justas y cercanas a la realidad. Además, fortalece la confianza entre la comunidad y las instituciones. En pocas palabras, es una herramienta para que la ciudadanía no se quede callada y sea parte activa del cambio.

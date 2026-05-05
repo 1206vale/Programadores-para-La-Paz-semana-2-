@@ -1,35 +1,35 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:Luis Angel Vidal Hinojosa
+Fecha: 30/04/2026
+Nombre de la rama:luisangel_vidal_hinojosa
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: Si, se ve bastante claro, conciso y llamativo, logra captar la atención de nosotros. 
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: Por supuesto, da a detalle la información necesaria para poder tener una idea clara de cómo se utilizará la información.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta: Por supuesto, se nota a simple vista que la etiqueta está sobre puesta y es fácil de identificar. Cada campo posee la información que se necesita.
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: Claro que si, maneja un lenguaje no tan técnico y es fácil de comprender ya que articula palabras que usamos normalmente sin recurrir tanto a ayudas externas.
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta: El formulario es claro y conciso, pide exactamente lo que se necesita para evitar malos entendidos, busca minimizar errores y que solo llegue la información necesaria.
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta: El campo permite la dimensión necesaria para escribir de forma concisa sin tanto rodeo lo que se desea plasmar.
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta: Por supuesto, siemrpe hay que tener eso presente en caso de cualquier problema, mostrar que todo está estrictamente concientizado para evitar desinformación.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: Si claro, se ve bastante bien e informa lo que se necesita saber, como he dicho, toda la información queda bastante clara.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta: La pagina logra completamente captar con sencilles lo que quiere mostrar y cómo funciona la misma, todo se lee y muestra con facilidad.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta: Por el momento diría que nada mas que el diseño, podríamos ponerlo de forma un poco más moderna, tal vez cambiando la fuente o agregando un diseño un poco más juvenil. 
